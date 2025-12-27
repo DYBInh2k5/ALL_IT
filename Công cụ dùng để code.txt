@@ -1,0 +1,93 @@
+1. Trình soạn thảo mã nguồn (Code Editors)
+
+Visual Studio Code (VS Code): Miễn phí, mã nguồn mở và hỗ trợ nhiều ngôn ngữ với rất nhiều extension, rất phổ biến cho phát triển web, Python, JavaScript, v.v.
+Sublime Text: Nhẹ, nhanh, hỗ trợ đa ngôn ngữ và có nhiều plugin.
+Atom: Mã nguồn mở của GitHub, hỗ trợ nhiều ngôn ngữ và dễ tùy chỉnh.
+Notepad++: Nhẹ, dễ sử dụng, phù hợp cho các tác vụ chỉnh sửa tệp mã nhỏ.
+
+2. Môi trường phát triển tích hợp (IDEs)
+Visual Studio: Tích hợp mạnh mẽ cho các ngôn ngữ .NET như C#, F#, VB.NET; cũng hỗ trợ nhiều ngôn ngữ khác.
+IntelliJ IDEA: Được tối ưu hóa cho Java và các công nghệ liên quan, hỗ trợ các plugin mở rộng.
+PyCharm: Tập trung vào Python với các tính năng mạnh mẽ để phát triển ứng dụng và phân tích dữ liệu.
+Xcode: Dành cho lập trình iOS và macOS với các ngôn ngữ Swift và Objective-C.
+Eclipse: Môi trường mã nguồn mở cho Java, cũng hỗ trợ C/C++ và Python thông qua các plugin.
+NetBeans: IDE mã nguồn mở cho Java, PHP, HTML5, JavaScript và nhiều ngôn ngữ khác.
+
+3. Trình quản lý phiên bản (Version Control)
+Git: Hệ thống quản lý phiên bản phân tán phổ biến nhất, thường được dùng với GitHub, GitLab, Bitbucket.
+GitHub Desktop: Ứng dụng hỗ trợ quản lý Git với giao diện đồ họa.
+SourceTree: Giao diện đồ họa cho Git và Mercurial, phổ biến với các dự án nhỏ và vừa.
+GitKraken: Công cụ Git với giao diện trực quan, hỗ trợ quản lý phiên bản, hợp tác nhóm.
+
+4. Container và Orchestration
+Docker: Công cụ tạo container, giúp đóng gói và triển khai ứng dụng một cách dễ dàng.
+Kubernetes: Hệ thống điều phối container, giúp quản lý và mở rộng các ứng dụng containerized.
+
+5. Công cụ dòng lệnh (Command Line Tools)
+Terminal: Trình dòng lệnh trên macOS và Linux.
+PowerShell: Trình dòng lệnh của Windows, hỗ trợ script nâng cao.
+Command Prompt: Trình dòng lệnh cơ bản trên Windows.
+Zsh và Bash: Shell dòng lệnh phổ biến trên macOS và Linux, hỗ trợ nhiều plugin tùy chỉnh.
+
+6. Công cụ xây dựng và quản lý dự án (Build & Project Management Tools)
+Maven: Công cụ quản lý dự án cho Java, quản lý thư viện và các tác vụ xây dựng.
+Gradle: Công cụ xây dựng dựa trên JVM, hỗ trợ các dự án Java và Android.
+Make: Công cụ phổ biến cho C/C++, giúp tự động hóa quá trình xây dựng dự án.
+npm: Trình quản lý gói cho Node.js, rất phổ biến trong các dự án JavaScript.
+yarn: Trình quản lý gói JavaScript nhanh hơn và an toàn hơn, thay thế cho npm trong một số dự án.
+
+7. Trình duyệt và công cụ phát triển web (Web Browsers & Developer Tools)
+Google Chrome: Công cụ DevTools mạnh mẽ cho phát triển và gỡ lỗi front-end.
+Firefox Developer Edition: Phiên bản Firefox tối ưu cho phát triển, có các công cụ DevTools đặc biệt.
+Microsoft Edge DevTools: Tương tự Chrome DevTools, hỗ trợ phát triển và kiểm tra ứng dụng web.
+Safari Developer Tools: Công cụ kiểm tra và gỡ lỗi cho các ứng dụng web trên iOS/macOS.
+
+8. Phần mềm thiết kế và mô phỏng UI/UX
+Figma: Thiết kế và hợp tác trực tuyến, hỗ trợ thiết kế giao diện và trải nghiệm người dùng.
+Adobe XD: Công cụ thiết kế UI/UX của Adobe, tích hợp với hệ sinh thái Adobe.
+Sketch: Ứng dụng thiết kế giao diện phổ biến cho macOS, tập trung vào UI/UX.
+InVision: Công cụ thiết kế và mô phỏng, giúp tạo nguyên mẫu và thử nghiệm giao diện.
+
+9. Trình gỡ lỗi và phân tích mã (Debugging & Code Analysis Tools)
+Postman: Công cụ kiểm thử API REST, hỗ trợ kiểm tra và phân tích API dễ dàng.
+Swagger: Công cụ tạo và kiểm thử tài liệu API, hỗ trợ OpenAPI.
+SonarQube: Công cụ phân tích mã tự động, phát hiện lỗi và lỗ hổng bảo mật.
+Fiddler: Công cụ theo dõi và phân tích lưu lượng mạng, hữu ích khi kiểm tra API và bảo mật.
+
+10. Công cụ kiểm thử phần mềm (Testing Tools)
+Selenium: Công cụ kiểm thử tự động trên trình duyệt, phổ biến cho kiểm thử giao diện web.
+JUnit: Công cụ kiểm thử cho Java, thường dùng để viết và chạy các bài kiểm thử đơn vị.
+Mockito: Thư viện giả lập (mocking) cho Java, hỗ trợ kiểm thử đơn vị.
+Jest: Công cụ kiểm thử JavaScript cho các ứng dụng Node.js và React.
+Cypress: Công cụ kiểm thử end-to-end cho ứng dụng web, dễ cấu hình và chạy nhanh.
+
+11. Công cụ CI/CD (Continuous Integration / Continuous Deployment)
+Jenkins: Công cụ CI/CD mã nguồn mở, phổ biến trong tích hợp liên tục.
+GitLab CI/CD: Công cụ tích hợp CI/CD mạnh mẽ và dễ sử dụng, tích hợp với GitLab.
+Travis CI: Dịch vụ CI/CD cho các dự án mã nguồn mở, hỗ trợ GitHub.
+CircleCI: Công cụ CI/CD hỗ trợ nhiều ngôn ngữ và tích hợp dễ dàng.
+
+12. Trình quản lý cơ sở dữ liệu và công cụ truy vấn (Database Management & Query Tools)
+MySQL Workbench: Công cụ quản lý và thiết kế cơ sở dữ liệu MySQL.
+pgAdmin: Công cụ quản lý cho PostgreSQL.
+MongoDB Compass: Giao diện đồ họa cho MongoDB, giúp quản lý và truy vấn dữ liệu.
+DBeaver: Công cụ quản lý cơ sở dữ liệu đa năng, hỗ trợ nhiều loại cơ sở dữ liệu.
+SQLite Studio: Giao diện đồ họa cho SQLite, dễ sử dụng cho các dự án nhỏ.
+
+13. Trình quản lý gói (Package Managers)
+npm: Quản lý gói JavaScript, phổ biến cho các dự án Node.js.
+pip: Quản lý gói Python, cho phép cài đặt các thư viện và công cụ từ Python Package Index (PyPI).
+Composer: Trình quản lý gói PHP, rất phổ biến trong các dự án PHP.
+NuGet: Trình quản lý gói cho các dự án .NET.
+
+14. Công cụ ảo hóa và điện toán đám mây (Virtualization & Cloud Computing Tools)
+AWS (Amazon Web Services): Cung cấp các dịch vụ đám mây đa dạng từ lưu trữ đến AI.
+Microsoft Azure: Hạ tầng và dịch vụ đám mây của Microsoft, hỗ trợ phát triển và triển khai ứng dụng.
+Google Cloud Platform (GCP): Dịch vụ đám mây của Google, hỗ trợ AI, lưu trữ, phân tích dữ liệu.
+VirtualBox: Phần mềm ảo hóa mã nguồn mở, cho phép chạy các hệ điều hành khác nhau trên cùng một máy.
+
+15. Công cụ giám sát và quản lý hệ thống (Monitoring & Logging Tools)
+Prometheus: Hệ thống giám sát mã nguồn mở, thường được dùng với Kubernetes.
+Grafana: Công cụ trực quan hóa dữ liệu từ các hệ thống giám sát như Prometheus.
+Elasticsearch, Logstash, Kibana (ELK Stack): Hệ thống giám sát và phân tích log phổ biến.
+Splunk: Giải pháp thương mại cho giám sát, quản lý log và phân tích dữ liệu.
